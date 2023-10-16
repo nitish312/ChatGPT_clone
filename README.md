@@ -15,3 +15,11 @@ Step 4 : Create the Dockerfile.
 Step 5 : Run this Image.
 
 Step 6 : Now test the Output on desired port mentioned in the running docker image.
+
+
+
+- Docker File 
+![Screenshot from 2023-10-14 13-11-57](https://github.com/nitish312/ChatGPT_clone/assets/94921807/61110a96-daab-4059-9f0e-140f0ec5b281)
+
+- Result
+![Screenshot from 2023-10-14 13-13-52](https://github.com/nitish312/ChatGPT_clone/assets/94921807/72546e90-f2ee-4a47-9dc5-d7d0f7be9592)
