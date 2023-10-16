@@ -53,7 +53,7 @@ export const Home = () => {
                                             <div className="flex-grow-1 overflow-hidden">
                                                 <div className="d-flex align-items-center">
                                                     <div className="flex-shrink-0 chat-user-img online user-own-img align-self-center me-3 ms-0">
-                                                        <img src="https://themesbrand.com/doot/layouts/assets/images/users/avatar-2.jpg" className="rounded-circle avatar-sm" alt="" />
+                                                        <img src="https://drive.google.com/file/d/1oYmVD5Vhzl8wuMZSJkatnNSJd9u0VEP8/view?usp=sharing" className="rounded-circle avatar-sm" alt="" />
                                                         <span className="user-status" />
                                                     </div>
                                                     <div className="flex-grow-1 overflow-hidden">
